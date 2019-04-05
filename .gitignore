@@ -3,6 +3,9 @@ ngrok-config.yml
 runit-services/tunnel-service/supervise
 runit-services/tunnel-service/log/supervise
 runit-services/tunnel-service/log/*
+runit-services/start-button/supervise
+runit-services/start-button/log/supervise
+runit-services/start-button/log/*
 librealsense/
 *.pyc
 __pycache__
